@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info_background.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable\\info_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_ratio.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\layout\\activity_main_ratio.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_autoconnect.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\layout\\activity_main_autoconnect.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_barriers.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\layout\\activity_main_barriers.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_singapore.jpg.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable-nodpi\\singapore.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_star.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable-xxhdpi\\ic_star.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_inference.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\layout\\activity_main_inference.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_info.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable-xxhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_chains.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\layout\\activity_main_chains.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_ab_drawer_mask.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ab_drawer_mask.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_done.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\layout\\activity_main_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_ab_up_white.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ab_up_white.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_start.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\layout\\activity_main_start.xml"
+    }
+]

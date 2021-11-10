@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de\\values-de.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\Desktop\\constraint-layout-master\\constraint-layout-start\\app\\src\\main\\res\\values-de\\strings.xml",
+                    "from": {
+                        "startLines": "2,9,7,10,5,12,4,8,11,3,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,863,752,905,661,1009,609,812,962,107,707",
+                        "endColumns": "51,41,59,56,45,67,51,50,46,501,44",
+                        "endOffsets": "102,900,807,957,702,1072,656,858,1004,604,747"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,149,209,266,312,380,432,483,530,1032",
+                        "endColumns": "51,41,59,56,45,67,51,50,46,501,44",
+                        "endOffsets": "102,144,204,261,307,375,427,478,525,1027,1072"
+                    }
+                }
+            ]
+        }
+    ]
+}
